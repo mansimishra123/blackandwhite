@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background:linear-gradient(90deg,rgb(222, 16, 119)0%, rgb(206, 7, 237) 35%, rgb(1, 31, 37)100%);
+}
+
+
+
+#humidityDisplay{
+    image: center;
+    width: 55%;
+    height: 55%;
+   
+    margin-left: 330px;
+}
